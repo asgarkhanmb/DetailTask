@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq (2)\\Fiorello-PB101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FBDA22-2666-4038-AD89-D72F2F4E5D42}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq (2)\\fiorello-pb101\\fiorello-pb101\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FBDA22-2666-4038-AD89-D72F2F4E5D42}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FBDA22-2666-4038-AD89-D72F2F4E5D42}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq (2)\\fiorello-pb101\\fiorello-pb101\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FBDA22-2666-4038-AD89-D72F2F4E5D42}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq (2)\\Fiorello-PB101\\Fiorello-PB101\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Services\\Interfaces\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq (2)\\Fiorello-PB101\\Fiorello-PB101\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Services\\Interfaces\\IBlogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:30:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq (2)\\Fiorello-PB101\\Fiorello-PB101\\Services\\BlogService.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Services\\BlogService.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq (2)\\Fiorello-PB101\\Fiorello-PB101\\Services\\BlogService.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Services\\BlogService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:30:29.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
